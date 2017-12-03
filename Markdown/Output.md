@@ -33,3 +33,12 @@ output:{
  filename : '[chunkhash].js'//1
 }
 ```
+
+<br />
+
+---
+
+# path
+
+* path.join() :  OS의 파일 구분자를 활용하여 위치를 찾는다
+* path.resolve() : 오른쪽에서 왼쪽으로 파일 위치를 구성해가며 유효한 위치를 찾는다.
