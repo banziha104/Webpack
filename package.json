@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "lodash": "^4.17.4",
+    "save": "^2.3.2",
+    "style-loader": "^0.19.1"
   }
 }
